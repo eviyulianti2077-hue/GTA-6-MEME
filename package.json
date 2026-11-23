@@ -1,0 +1,20 @@
+{
+  "name": "gta6-meme-x-01",
+  "version": "1.0.0",
+  "description": "make.fun GTA 6 Meme on X Bounty Submission (gta6-meme-x-01)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts",
+    "test": "MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts"
+  },
+  "keywords": [
+    "makefun",
+    "gta6",
+    "ai-agents",
+    "bounty"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
